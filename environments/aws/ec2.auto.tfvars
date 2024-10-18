@@ -1,1 +1,1 @@
-ec2_ami = "ami-0e8d228ad90af673b"
+image_id = "ami-0e8d228ad90af673b"

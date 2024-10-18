@@ -1,3 +1,3 @@
-variable "ec2_ami" {
+variable "image_id" {
     type = string
 }

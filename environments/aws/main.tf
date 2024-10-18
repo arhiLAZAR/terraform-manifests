@@ -1,6 +1,6 @@
 module "ec2" {
     source = "../../modules/ec2"
-    ec2_ami = var.ec2_ami
+    image_id = var.image_id
 }
 
 output "public_ip" {
